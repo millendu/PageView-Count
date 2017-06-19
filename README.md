@@ -1,5 +1,6 @@
 # PageView-Count
 
+This project is implemented in Scala
 This project analyzes combined data of two files available in this repository:
 1)Assets - assets_2014-01-20_00_domU-12-31-39-01-A1-34.gz
 2)Events - ad-events_2014-01-20_00_domU-12-31-39-01-A1-34.gz
