@@ -1,8 +1,8 @@
 # PageView-Count
 
-This project analyzes combined data of two files:
-1)Assets
-2)Evetns
+This project analyzes combined data of two files available in this repository:
+1)Assets - assets_2014-01-20_00_domU-12-31-39-01-A1-34.gz
+2)Events - ad-events_2014-01-20_00_domU-12-31-39-01-A1-34.gz
 
 The file starting with assets_ contains asset (image) impressions. Each line represents 1 asset impression.
 The file starting ad-events_ contains various kinds of ad events. Each line represents one ad event. We are
